@@ -11,7 +11,7 @@ function TextBlock() {
                 But when something strange draws you out of your lookout tower and into the world below, you'll explore a wild and unknown environment, facing questions and making interpersonal choices that can build or destroy the only meaningful relationship you have.
                 </p>
             </div>
-            <footer className='textblock-footer'> Created By&nbsp;<a className="textblock-mill" href="/">Millaamedun</a></footer>
+            <footer className='textblock-footer'> Created By<p className="textblock-mill" href="/">Millaamedun</p></footer>
         </div>
     );
 }
